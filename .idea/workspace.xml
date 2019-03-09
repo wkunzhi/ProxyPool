@@ -18,22 +18,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="163" />
+          <entry key="py" value="1343" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="163" />
+          <entry key="Python" value="1343" />
         </counts>
       </usages-collector>
     </session>
@@ -41,14 +41,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../proxyPool/redis_clent.py">
+        <entry file="file://$PROJECT_DIR$/../ProxyPool/redis_clent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="823">
+              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
               <folding>
                 <element signature="e#102#114#0" expanded="true" />
-                <marker date="1552108358000" expanded="true" signature="307:308" ph="..." />
+                <marker date="1552110878000" expanded="true" signature="307:308" ph="..." />
+                <marker date="1552110878000" expanded="true" signature="307:312" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/redis/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="2485" column="57" lean-forward="true" selection-start-line="2479" selection-start-column="7" selection-end-line="2485" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -67,6 +77,7 @@
       <list>
         <option value="$PROJECT_DIR$/redis_clent.py" />
         <option value="$PROJECT_DIR$/../proxyPool/redis_clent.py" />
+        <option value="$PROJECT_DIR$/../ProxyPool/redis_clent.py" />
       </list>
     </option>
   </component>
@@ -93,7 +104,7 @@
           <expand>
             <path>
               <item name="IP池" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxyPool" type="462c0819:PsiDirectoryNode" />
+              <item name="ProxyPool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,13 +376,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../proxyPool/redis_clent.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/redis/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="477">
+          <caret line="2485" column="57" lean-forward="true" selection-start-line="2479" selection-start-column="7" selection-end-line="2485" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/redis_clent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
           <folding>
             <element signature="e#102#114#0" expanded="true" />
-            <marker date="1552108358000" expanded="true" signature="307:308" ph="..." />
+            <marker date="1552110878000" expanded="true" signature="307:308" ph="..." />
+            <marker date="1552110878000" expanded="true" signature="307:312" ph="..." />
           </folding>
         </state>
       </provider>
